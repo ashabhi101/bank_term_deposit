@@ -59,6 +59,7 @@ Bank Dataset:
         Feature engineering - One hot encoding
         Feature selection - left it to the model initially
     3. model.ipynb - Contains two models built using sklerarn and xgboost, and the models are saved for production code 
+        The reason I chose these models is since they are ensemble models, they typically do well thana. Single model. This is a great place to start buildig models.
    
 Future scope:
  I plan to convert existing model to production grade and tune the hyperparameters better.
